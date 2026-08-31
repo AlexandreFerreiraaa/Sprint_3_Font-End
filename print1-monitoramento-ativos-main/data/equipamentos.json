@@ -1,0 +1,16 @@
+[
+    {
+        "TAG": "MO1 --123",
+        "Modelo": "v8",
+        "Fabricante": "AUDI",
+        "Pot\u00eancia (W)": 200.0,
+        "Tens\u00e3o (V)": 760
+    },
+    {
+        "TAG": "MOT-1102",
+        "Modelo": "V12",
+        "Fabricante": "FORD",
+        "Pot\u00eancia (W)": 600.0,
+        "Tens\u00e3o (V)": 760
+    }
+]
